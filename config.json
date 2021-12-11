@@ -1,5 +1,5 @@
 {
-  "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
+  "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git",
   "twrp_branch": "twrp-11",
   "git_username": "JoyNeko",
   "git_email": "ym59037887+JoyNeko@users.noreply.github.com",
@@ -8,7 +8,7 @@
   "dt_branch": "twrp",
   "dt_remote": "github",
   "dt_path": "device/xiaomi/chiron",
-  "device_code": "chiron",
+  "device_code": "omni_chiron",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
