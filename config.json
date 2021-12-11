@@ -5,7 +5,7 @@
   "git_email": "ym59037887+JoyNeko@users.noreply.github.com",
   "use_own_dt": true,
   "dt_url": "ym59037887/android_device_xiaomi_chiron",
-  "dt_branch": "android-9.0",
+  "dt_branch": "twrp",
   "dt_remote": "github",
   "dt_path": "device/xiaomi/chiron",
   "device_code": "chiron",
