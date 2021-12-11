@@ -8,7 +8,7 @@
   "dt_branch": "twrp",
   "dt_remote": "github",
   "dt_path": "device/xiaomi/chiron",
-  "device_code": "omni_chiron",
+  "device_code": "chiron",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
