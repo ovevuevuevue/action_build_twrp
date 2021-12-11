@@ -1,6 +1,6 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-11",
+  "twrp_branch": "twrp-9.0",
   "git_username": "JoyNeko",
   "git_email": "ym59037887+JoyNeko@users.noreply.github.com",
   "use_own_dt": true,
