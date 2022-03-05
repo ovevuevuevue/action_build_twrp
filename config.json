@@ -2,17 +2,17 @@
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-9.0",
   "git_username": "JoyNeko",
-  "git_email": "ym59037887+JoyNeko@users.noreply.github.com",
+  "git_email": "zimingye2017@gmail.com",
   "use_own_dt": true,
-  "dt_url": "ym59037887/android_device_xiaomi_chiron",
+  "dt_url": "SGCMarkus/android_device_lge_judypn-twrp",
   "dt_branch": "twrp",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/chiron",
-  "device_code": "chiron",
+  "dt_path": "device/lge/judypn",
+  "device_code": "judypn",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-8.1"
+  "fix_branch": "android-9.0"
 }
